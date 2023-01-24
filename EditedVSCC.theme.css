@@ -11,7 +11,7 @@
 /* FONT */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800&display=swap');
 
-body.powercord . header-QKLPzZ{background: unset!important;}
+body.powercord.header-QKLPzZ{background: unset!important;}
 
 /* THAMER ALHUMAID */
 :root {
@@ -41,7 +41,7 @@ body.powercord . header-QKLPzZ{background: unset!important;}
 .theme-dark,
 :root {
 	--header-primary: #fff;
-	--header-secondary: #fff;#b9bbbe
+	--header-secondary: #b9bbbe;
 	--text-normal: #dcddde;
 	--text-muted: var(--color-gray);
 	--text-link: var(--color-brand-lighter);
@@ -1678,7 +1678,7 @@ div[id*="folder-items"] {
 	border-width: 2px;
 	border-style: solid;
 	border-color: transparent;
-	background-color: #3e3e40;
+	background-color: #8dd409;
 	transition: background-color 0.2s ease, border-color 0.2s ease;
 }
 
