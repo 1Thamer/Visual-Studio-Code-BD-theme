@@ -41,7 +41,7 @@ body.powercord . header-QKLPzZ{background: unset!important;}
 .theme-dark,
 :root {
 	--header-primary: #fff;
-	--header-secondary: #b9bbbe;
+	--header-secondary: #fff;#b9bbbe
 	--text-normal: #dcddde;
 	--text-muted: var(--color-gray);
 	--text-link: var(--color-brand-lighter);
