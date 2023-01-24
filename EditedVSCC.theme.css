@@ -1773,26 +1773,10 @@ div[id*="folder-items"] {
 }
 /*Rainbow Wave USER#ID*/
 
-@keyframes gradient-border {
-    0%, 200% {
-        background-position: 0 0;
-    }
 
-    99.999999999999999% {
-        background-position: 130% 0;
-    }
-}
 /*Rainbow wave mention*/
 
-@keyframes gradient-border {
-    0%, 200% {
-        background-position: 0 0;
-    }
 
-    99.999999999999999% {
-        background-position: 130% 0;
-    }
-}
 /*remove stage discovery*/
 .channel-1Shao0[href="/discovery"] {
     display: none;
