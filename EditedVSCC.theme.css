@@ -1783,15 +1783,7 @@ div[id*="folder-items"] {
     }
 }
 /*Rainbow wave mention*/
-html .mention.wrapper-1ZcZW-.mention.interactive{
-    background-image: linear-gradient(to left,rgb(51, 255, 0), rgb(255, 230, 0), red, rgb(234, 0, 255), rgb(0, 140, 255), rgb(51, 255, 0));
-    animation: gradient-border 3s linear infinite;
-    background-size: 400% 100%;
-    color: transparent !important;
-    -webkit-background-clip: text;
-    position: relative;
-    z-index: 1;
-}
+
 @keyframes gradient-border {
     0%, 200% {
         background-position: 0 0;
